@@ -11,11 +11,11 @@
 		<classes>
 			       <!--   <class name="com.testcases.LoginTC1" /> -->
 			       <!--   <class name="com.testcases.LoginTC2"/> -->
-			      <!--    <class name="com.testcases.Userabletoaddcustomer"/> -->
-			     <!--     <class name="com.testcases.Resetbutton"/> -->
-			     <!--     <class name="com.testcases.Userabletoaddtariffplan"/> -->
-			     <!--     <class name="com.testcases.Usercanabletoaddtarifplantocustomer"/> -->
-			      <!--    <class name="com.testcases.Addtarifplantocustomer"> -->
+			       <!--   <class name="com.testcases.Userabletoaddcustomer"/> -->
+			       <!--   <class name="com.testcases.Resetbutton"/> -->
+			       <!--   <class name="com.testcases.Userabletoaddtariffplan"/> -->
+			       <!--   <class name="com.testcases.Usercanabletoaddtarifplantocustomer"/> -->
+			       <!--   <class name="com.testcases.Addtarifplantocustomer"> -->
 			       <!--   <class name="com.testcases.PaybillTC"/> -->
 			              <class name="com.testcases.Paymentgetway"/>
 		</classes>
